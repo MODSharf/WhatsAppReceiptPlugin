@@ -1,5 +1,7 @@
 # WhatsApp Receipt Plugin for Aronium POS
 
+<img width="1366" height="730" alt="1Untitled" src="https://github.com/user-attachments/assets/6d577504-5719-44ba-aa98-1f6240c1fc42" />
+
 **Deliver sales receipts to customers as PDF documents through WhatsApp.**
 
 WhatsApp Receipt Plugin is an independent add-on for Aronium POS. It is intended to help participating stores deliver a copy of a sales receipt to a customer's WhatsApp number.
@@ -8,7 +10,7 @@ WhatsApp Receipt Plugin is an independent add-on for Aronium POS. It is intended
 
 ## Demo
 
-[Watch the product demo](REPLACE_WITH_DEMO_VIDEO_URL)
+[Watch the product demo](https://youtu.be/ULREzw3dT6M)
 
 ## What it does
 
@@ -20,7 +22,7 @@ Feature availability depends on the published version. Refer to each release's n
 
 ## Download
 
-[View all releases](https://github.com/YOUR_GITHUB_USERNAME/WhatsAppReceiptPlugin/releases)
+[View all releases](https://github.com/MODSharf/WhatsAppReceiptPlugin/releases)
 
 When a stable release is published, download the ZIP asset attached to the latest release. Do not download the repository source ZIP as an installer.
 
@@ -44,8 +46,8 @@ Each store must use and manage its own WhatsApp Business assets, phone number, a
 
 ## Support
 
-- [Report a bug](https://github.com/YOUR_GITHUB_USERNAME/WhatsAppReceiptPlugin/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/YOUR_GITHUB_USERNAME/WhatsAppReceiptPlugin/issues/new?template=feature_request.yml)
+- [Report a bug](https://github.com/MODSharf/WhatsAppReceiptPlugin/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/MODSharf/WhatsAppReceiptPlugin/issues/new?template=feature_request.yml)
 - Before opening an issue, remove tokens, customer details, and other confidential information from logs and screenshots.
 
 ## Licensing and commercial use
