@@ -11,7 +11,7 @@
 
 ## Install
 
-1. Download the release asset named `WhatsAppReceiptPlugin-vX.Y.Z.zip` from the GitHub Releases page.
+1. Download the release asset named `WhatsAppReceiptPlugin-vX.Y.Z.exe` from the GitHub Releases page.
 2. Extract the package. **TODO: specify exact folder structure and files.**
 3. Copy the plugin files to the verified Aronium Modules location. **TODO: confirm the exact path and whether a subfolder is required.**
 4. Start Aronium and verify that the plugin is loaded. **TODO: describe exact menu/navigation path.**
