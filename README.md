@@ -30,10 +30,10 @@ When a release is published, download the installer asset `WhatsAppReceiptPlugin
 
 Confirm the exact supported versions before publishing a public release:
 
-- Aronium POS: **TO BE VERIFIED**
-- Windows: **TO BE VERIFIED**
-- .NET Framework/runtime requirements: **TO BE VERIFIED**
+- Aronium POS Lite
+- Windows
 - WhatsApp Business Platform / Cloud API configuration: required for the supported API-based sending flow
+- Meta sending number identifier (id)
 - Store-owned WhatsApp Business assets and valid credentials
 
 ## Installation
