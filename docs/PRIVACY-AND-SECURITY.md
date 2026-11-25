@@ -15,10 +15,5 @@ This document must be reviewed against the actual implementation before release.
 - Customer names, phone numbers, receipt PDFs, or unredacted logs.
 - Store database backups or real business data.
 
-## Implementation review required before release
 
-- Verify how credentials are stored, protected, masked, and cleared.
-- Verify whether logs contain tokens, phone numbers, receipt content, or customer data.
-- Verify network endpoints and TLS usage.
-- Verify deletion/retention behavior for temporary PDF files.
-- Provide a contact for private vulnerability reports: **TODO: security contact email**.
+- contact for private vulnerability reports: mohmdsharf30@gmail.com.
