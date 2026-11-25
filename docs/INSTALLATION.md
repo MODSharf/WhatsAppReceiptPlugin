@@ -11,7 +11,7 @@
 2. Start Aronium and navigate to **Aronium > Settings > WhatsApp Integration** to verify that the plugin is loaded.
 3. Enter your store's WhatsApp Business API credentials and click the **Enable** button to activate the plugin.
 
-![WhatsApp Integration settings in Aronium](media/whatsapp-integration-settings.jpg)
+![WhatsApp Integration settings in Aronium](media/whatsapp-integration-settings.png)
 
 4. Send a test receipt to a consenting test number before enabling normal use.
 
