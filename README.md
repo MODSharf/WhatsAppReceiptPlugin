@@ -6,10 +6,6 @@ WhatsApp Receipt Plugin is an independent add-on for Aronium POS. It is intended
 
 ![Sample test receipt received on WhatsApp](docs/media/1Untitled.jpg)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6d577504-5719-44ba-aa98-1f6240c1fc42" alt="WhatsApp Receipt Plugin for Aronium POS overview" width="100%" />
-</p>
-
 > **Release status:** This repository is currently in a pre-release / targeted early-access phase. Public download will be enabled only after the release package, installation procedure, compatibility, and security checks have been verified for general release. Do not treat this repository template as a public stable release.
 
 ## Demo
@@ -18,7 +14,7 @@ See how the plugin integrates with Aronium POS and delivers receipts to WhatsApp
 
 [Watch the product demo on YouTube](https://youtu.be/ULREzw3dT6M)
 
-[![Watch the product demo](https://img.youtube.com/vi/ULREzw3dT6M/hqdefault.jpg)](https://youtu.be/ULREzw3dT6M)
+[![Watch the product demo](https://img.youtube.com/vi/ULREzw3dT6M/sddefault.jpg)](https://youtu.be/ULREzw3dT6M)
 
 
 
