@@ -5,6 +5,14 @@
 - Back up the Aronium data and configuration as appropriate.
 - Close Aronium completely before installing, updating, or uninstalling the plugin.
 
+## Video walkthrough
+
+Watch how to download the release from GitHub, install it on Windows, and enable the integration in Aronium:
+
+[![Installation and setup walkthrough on YouTube](https://img.youtube.com/vi/0I-0wSWXwBA/hqdefault.jpg)](https://youtu.be/0I-0wSWXwBA)
+
+[Watch the installation video on YouTube](https://youtu.be/0I-0wSWXwBA)
+
 ## Install
 
 1. Download the release asset named `WhatsAppReceiptPlugin-vX.Y.Z.exe` from the GitHub Releases page and run the installer.
@@ -41,8 +49,8 @@ If an issue occurs after updating:
 
 ### Log files
 Check the Aronium and plugin logs for detailed error messages:
-* **Aronium Logs:** `%LocalAppData%\Aronium\Logs\`
-* **Plugin Logs:** `[Specify exact path, e.g., %LocalAppData%\Aronium\Logs\WhatsAppPlugin.log]`
+- **Aronium Logs:** `%LocalAppData%\Aronium\Logs\`
+- **Plugin Logs:** `[Specify exact path, e.g., %LocalAppData%\Aronium\Logs\WhatsAppPlugin.log]`
 
 ### Common issues & recovery
 
