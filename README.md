@@ -6,7 +6,7 @@
 
 WhatsApp Receipt Plugin is an independent add-on for Aronium POS. It is intended to help participating stores deliver a copy of a sales receipt to a customer's WhatsApp number.
 
-> **Release status:** Public download will be enabled only after the release package, installation procedure, compatibility, and security checks have been verified. Do not treat this repository template as a downloadable release.
+> **Release status:** This repository is currently in a pre-release / targeted early-access phase. Public download will be enabled only after the release package, installation procedure, compatibility, and security checks have been verified for general release. Do not treat this repository template as a public stable release.
 
 ## Demo
 
@@ -15,7 +15,7 @@ WhatsApp Receipt Plugin is an independent add-on for Aronium POS. It is intended
 ## What it does
 
 - Prepares a sales receipt as a PDF for WhatsApp delivery.
-- Provides plugin settings for the store's WhatsApp integration.
+- Provides plugin settings under **Aronium > Settings > WhatsApp Integration** for the store's WhatsApp Business API credentials and activation.
 - Supports the product's licensing workflow.
 
 Feature availability depends on the published version. Refer to each release's notes.
@@ -24,11 +24,11 @@ Feature availability depends on the published version. Refer to each release's n
 
 [View all releases](https://github.com/MODSharf/WhatsAppReceiptPlugin/releases)
 
-When a stable release is published, download the ZIP asset attached to the latest release. Do not download the repository source ZIP as an installer.
+When a release is published, download the installer asset `WhatsAppReceiptPlugin-vX.Y.Z.exe` attached to the release. Do not download the repository source ZIP as an installer.
 
 ## Requirements
 
-Confirm the exact supported versions before publishing a release:
+Confirm the exact supported versions before publishing a public release:
 
 - Aronium POS: **TO BE VERIFIED**
 - Windows: **TO BE VERIFIED**
@@ -38,11 +38,13 @@ Confirm the exact supported versions before publishing a release:
 
 ## Installation
 
-See [Installation Guide](docs/INSTALLATION.md). The guide must be completed and tested against a clean Aronium installation before the first public release.
+See [Installation Guide](docs/INSTALLATION.md). The installation steps are currently being validated with targeted early-access users prior to general public release.
 
-## WhatsApp setup and responsibility
+## WhatsApp setup, privacy, and responsibility
 
-Each store must use and manage its own WhatsApp Business assets, phone number, access credentials, customer consent, and compliance with applicable Meta policies and messaging fees. Never post access tokens, app secrets, phone-number IDs, customer phone numbers, or receipt PDFs in public issues.
+Each store must use and manage its own WhatsApp Business assets, phone number, access credentials, customer consent, and compliance with applicable Meta policies, local data-protection laws, and messaging fees.
+
+See [Privacy and Security Notes](PRIVACY-AND-SECURITY.md) for handling guidelines and pre-release notes. Never post access tokens, app secrets, phone-number IDs, customer phone numbers, or receipt PDFs in public issues. For private security or vulnerability reports, contact `mohmdsharf30@gmail.com`.
 
 ## Support
 
